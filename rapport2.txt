@@ -1,0 +1,5 @@
+Rapport des salaires moyens par département
+------------------------------------------
+Informatique : 325000.0 FCFA
+RH : 210000.0 FCFA
+Finance : 250000.0 FCFA
